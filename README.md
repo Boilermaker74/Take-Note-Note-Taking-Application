@@ -1,1 +1,1 @@
-# Take-Note-Note-Taking-Application
+# Take Note! Note Taking Application
