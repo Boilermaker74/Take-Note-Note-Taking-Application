@@ -17,8 +17,13 @@ notes.get('/', (req, res)=>{
 notes.post('/', (req, res) => {
     // Log that a POST request was received
     console.info(`${req.method} request received to add a review`);
-  
 
+    // Starting a delete routine
+notes.delete('/delete', (req, res) => {
+      res.send('Got a DELETE request at /delete')
+    })
+
+    
     const {title, text} = req.body;
 
     if (title && text){
