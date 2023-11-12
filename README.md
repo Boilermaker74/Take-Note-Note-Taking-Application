@@ -76,11 +76,11 @@ Xpert Learning Assistant
 
 
 ## Features
-It runs off the web using heroku and it has it's own stand alone database file for storing data.
+It runs off the web using Heroku and it has it's own stand alone database file for storing data.
 ## Languages and Technologies Used
 ![Github license](https://img.shields.io/badge/Language-HTML,CSS,JavaScript-blue.svg)
-![Github license](https://img.shields.io/badge/Technology-N/A-blue.svg)
+![Github license](https://img.shields.io/badge/Technology-Heroku,Express,Inquirer-blue.svg)
 ## Dependencies
-inquirer version 6.3.1 and press-any-key version 0.1.1 
+Inquirer version 6.3.1 and press-any-key version 0.1.1 
 ## Questions
 Please send your questions by email:  Bradm1492@gmail.com or visit [github/Boilermaker74](https://github.com/Boilermaker74).
