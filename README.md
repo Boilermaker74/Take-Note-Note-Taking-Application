@@ -35,7 +35,7 @@ The note is saved on the left side. To edit it simply click on the note and it w
 
 
 
-![alt-text](public/assets/images/Screenshot(81).png
+![alt-text](public/assets/images/Screenshot(81).png)
 
 
 
