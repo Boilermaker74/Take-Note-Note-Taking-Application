@@ -31,7 +31,7 @@ A white button titled “Save Note” appears in the upper right corner of the s
 
 ![alt-text](public/assets/images/Screenshot(80).png) 
 
-The note is saved on the left side. To edit it simply click on the note and it will be brought back into the text.
+The note is saved on the left side. To edit it simply click on the note and it will be brought back into the text field.
 
 
 
