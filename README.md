@@ -31,7 +31,15 @@ A white button titled “Save Note” appears in the upper right corner of the s
 
 ![alt-text](public/assets/images/Screenshot(80).png) 
 
-The note is saved on the left side. To edit it simply click on the note and it will be brought back into the text  Shot 81 To delete the note, click on the red garbage can icon. 
+The note is saved on the left side. To edit it simply click on the note and it will be brought back into the text.
+
+
+
+![alt-text](public/assets/images/Screenshot(81).png
+
+
+
+To delete the note, click on the red garbage can icon. 
 
 
 ![alt-text](public/assets/images/Screenshot(83).png) 
