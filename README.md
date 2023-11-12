@@ -18,13 +18,33 @@ Did you ever have a million-dollar idea only to lose it because you had no way t
 ## Installation
 Installation is not needed to run the application; The application is run when the user accesses the URL from the internet. The URL is  https://take-note-note-taking-app-bc4198fb8934.herokuapp.com/. To run the application locally, download the code from the GitHub repository Boilermaker74 /Take-Note-Note-Taking-Application @ https://github.com/Boilermaker74/Take-Note-Note-Taking-Application.  At the command line type, “npm install" to install and then “node .” to launch the application. 
 ## How to Use This Application:
-At the welcome screen, click the blue “Get Started” button. ![alt-text](public/assets/images/Screenshot(78).png) Type your note title in the text field titled “Note Title” and the note text in the filed titled “Note Text” Screen shot 79 A white button titled “Save Note” appears in the upper right corner of the screen after the note text is written. Click on the save note button saves it onto the left side of the screen.  Shot 80  The note is saved on the left side. To edit it simply click on the note and it will be brought back into the text  Shot 81 To delete the note, click on the red garbage can icon. Shot 83 
+At the welcome screen, click the blue “Get Started” button.
+
+![alt-text](public/assets/images/Screenshot(78).png) 
+
+Type your note title in the text field titled “Note Title” and the note text in the filed titled “Note Text” 
+
+![alt-text](public/assets/images/Screenshot(79).png)  
+
+A white button titled “Save Note” appears in the upper right corner of the screen after the note text is written. Click on the save note button saves it onto the left side of the screen.  
+
+
+![alt-text](public/assets/images/Screenshot(80).png) 
+
+The note is saved on the left side. To edit it simply click on the note and it will be brought back into the text  Shot 81 To delete the note, click on the red garbage can icon. 
+
+
+![alt-text](public/assets/images/Screenshot(83).png) 
+
+
 ## Licenses
 ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Contributors
-Xpert Learning Assistant screenshot 84
-## Testing
-N/A
+Xpert Learning Assistant 
+
+![alt-text](public/assets/images/Screenshot(84).png) 
+
+
 ## Features
 It runs off the web using heroku and it has it's own stand alone database file for storing data.
 ## Languages and Technologies Used
