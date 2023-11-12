@@ -1,7 +1,7 @@
 # Take Note! Note Generator App 
   by  Bradley Moleterno    ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Description
-Did you ever have a million-dollar idea only to lose it because you had no way to store it? Or perhaps you wrote it down but lost the message.  Well Take Note! The note applicator is a handy way to jot down a
+Did you ever have a million-dollar idea only to lose it because you had no way to store it? Or perhaps you wrote it down but lost the message.  Well Take Note! The note applicator is a handy way to jot down a note when inspiration strikes. Take Note! allows a user to enter any text note. The user can enter a title for their note followed by the note itself. A white button appears on the right side of the application once the user enters a note. When the user clicks on the white save note button that note is saved on the left side of the application. The user can bring up past notes or delete notes altogether. This application is especially interesting because it was the first application that was deployed using Heroku. Thus, it can be considered the first stand-alone web application created in class. We were also encouraged to create a delete route. This was actually quite simple once it was completed, but it took a couple of days to fully flesh out. 
 ## Deployed Application URL
   https://take-note-note-taking-app-bc4198fb8934.herokuapp.com/.
 ## Table of Contents
