@@ -16,7 +16,7 @@ Did you ever have a million-dollar idea only to lose it because you had no way t
 * [Questions](#questions)
 
 ## Installation
-Installation is not needed to run the application; The application is run when the user accesses the URL from the internet. The URL is  https://take-note-note-taking-app-bc4198fb8934.herokuapp.com/. To run the application locally, download the code from the GitHub repository Boilermaker74 / Take-Note-Note-Taking-Application @ https://github.com/Boilermaker74/Take-Note-Note-Taking-Application.  At the command line type, “npm install" to install and then “node .” to launch the application. 
+Installation is not needed to run the application; The application is run when the user accesses the URL from the internet. The URL is  https://take-note-note-taking-app-bc4198fb8934.herokuapp.com/. To run the application locally, download the code from the GitHub repository Boilermaker74 /Take-Note-Note-Taking-Application @ https://github.com/Boilermaker74/Take-Note-Note-Taking-Application.  At the command line type, “npm install" to install and then “node .” to launch the application. 
 ## How to Use This Application:
 At the welcome screen, click the blue “Get Started” button. Screen shot 78 Type your note title in the text field titled “Note Title” and the note text in the filed titled “Note Text” Screen shot 79 A white button titled “Save Note” appears in the upper right corner of the screen after the note text is written. Click on the save note button saves it onto the left side of the screen.  Shot 80  The note is saved on the left side. To edit it simply click on the note and it will be brought back into the text  Shot 81 To delete the note, click on the red garbage can icon. Shot 83 
 ## Licenses
